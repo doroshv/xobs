@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+astropy
+astroquery
+sherpa
+astroML
+emcee
