@@ -10,5 +10,4 @@ scikit-image
 scikit-learn
 healpy
 swifttools
-poisson-etest
 corner
