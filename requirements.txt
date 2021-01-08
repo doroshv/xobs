@@ -11,3 +11,4 @@ scikit-learn
 healpy
 swifttools
 corner
+aplpy
