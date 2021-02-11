@@ -12,3 +12,4 @@ healpy
 swifttools
 corner
 aplpy
+stingray
