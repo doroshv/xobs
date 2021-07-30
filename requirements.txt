@@ -13,4 +13,4 @@ swifttools
 corner
 aplpy
 stingray
-zero_point
+gaiadr3-zeropoint
